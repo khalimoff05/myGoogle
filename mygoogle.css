@@ -1,0 +1,33 @@
+h1{
+    margin-left: 33%;
+    font-size: 90px;
+    margin-top: 15%;
+    font-family:fantasy;
+    color: rgb(197, 107, 5);
+    height: 100px;
+    
+}
+/* form{
+    display: flex;
+    justify-content: center;
+} */
+input{
+    width: 541px;
+    height: 44px;
+    border-radius: 30px;
+    font-size: 20px;
+    border-color:white;
+    text-align: center;
+}
+section{
+    display: flex;
+    justify-content: center;
+ 
+}
+body{
+    background-image: url(https://plm-group.co.uk/wp-content/uploads/2017/02/uzbekistan1.jpg);
+    background-size: 100% 100%;
+}
+html{
+    height: 100%;
+}
